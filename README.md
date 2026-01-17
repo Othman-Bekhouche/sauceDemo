@@ -62,7 +62,7 @@ Les détails complets sont disponibles dans le rapport du projet.
 ```bash
 ├── cypress/
 │   ├── e2e/
-│   │   └── login.cy.js
+│   │   └── sauceDemo.cy.js
 │   ├── fixtures/
 │   ├── support/
 ├── cypress.config.js
